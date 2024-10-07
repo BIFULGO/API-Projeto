@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tempo</title>
+    <link rel="stylesheet" href="Tempo.css">
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
+</head>
+<body>
+    <a href="index.html" ><img class="imagem" src="Img/casa (1).png" ></a>
+
+    <center>
+        <fieldset class="F">
+            <h1>Previsão do Clima</h1>
+            <p class="cidade">Digite sua cidade abaixo</p>
+            <input type="text" id="City">
+            <br><br>
+            <button onclick="getWeather()">Pesquisar</button>
+        
+            <fieldset>
+                <p id="Clima">Aguarde...</p><br>
+            </fieldset>
+
+        </fieldset>
+    </center>
+    <script src="Tempo.js"></script>
+</body>
+</html>

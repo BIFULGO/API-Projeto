@@ -1,0 +1,32 @@
+h1{
+    font-size: 70px;
+    color: aliceblue;
+}
+h2{
+    font-size: 40px;
+}
+.imagem{
+    margin-left: 30px;
+    margin-top: 30px;
+    height: 40px;
+    width: 40px;
+}
+
+body{
+    background-image: url(Img/dollar-pictures-2lngk2uriuxi6csv.jpg);
+}
+fieldset{
+    margin-left: 800px;
+    width: 400px;
+    border-radius: 20px;
+    border: none;
+    background-color: rgba(136, 136, 136, 0.658);
+}
+
+p{
+    font-size: 30px;
+}
+#valorDolar{
+    font-size: 70px;
+    color: aliceblue;
+}

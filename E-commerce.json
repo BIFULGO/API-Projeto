@@ -1,0 +1,21 @@
+{
+    "name":"Matuê",
+    "album":"Álbum: Máquina do tempo",
+    "style":"Estilo: Rap",
+    "price":"R$79,99",
+    "image":"<img src ='img/arthur-magaro-matue.jpg'width ='200px'>" ,
+
+    "name2":"Matuê",
+    "album2":"Álbum: 333",
+    "style2":"Estilo: Rap",
+    "price2":"R$79,99",
+    "image2":"<img src ='img/333.jfif'width ='200px' height ='160px'>",  
+
+    "name3":"Matuê",
+    "album3":"Álbum: Máquina do tempo",
+    "style3":"Estilo: Rap",
+    "price3":"R$79,99",
+    "image3":"<img src ='img/Vampiro.jfif'width ='200px'  height ='160px'>"    
+
+
+}

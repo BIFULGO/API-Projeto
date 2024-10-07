@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background-color: rgb(54, 8, 75);
+    padding: 20px
+    
+}
+h1{
+    padding: 10px;
+    color: rgb(255, 255, 255);
+    font-size: 50px
+}
+body{
+    background-color: rgba(0, 0, 0, 0.934);
+}
+.imagem{
+    margin-left: 1700px;
+    margin-top: 10px;
+    height: 40px;
+    width: 40px;
+}
+.fieldset1{
+    text-align: center;
+    width: 300px;
+    height: 390px;
+    margin-top: 150px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    border-radius: 5px;
+
+}
+.fieldset2{
+     text-align: center;
+     width: 300px;
+     height: 390px;
+     margin-top: 150px;
+     border-radius: 10px;
+     background-color: aliceblue;
+     border-radius: 5px;
+}
+.fieldset3{
+    text-align: center;
+    width: 300px;
+    height: 390px;
+    margin-top: 150px;
+    border-radius: 10px;
+    background-color: aliceblue;
+    border-radius: 5px;
+}
+
+div{
+    color: black;
+}
+
+.box{
+    
+    display: flex;
+    justify-content: space-around;
+}
+footer{
+    background-color: rgb(54, 8, 75);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    padding: 5px;
+}
+
+#nome{
+    font-size: 30px;
+}
+
+#preco{
+    font-size: 25px;
+    font-family: monospace;
+}
+
+.segredo{
+
+    font-size: 20px;
+    color: aliceblue;
+}
+
+#imagem{
+    margin-top: 15px;
+}
+
+#nome2{
+    font-size: 30px;
+}
+
+#preco2{
+    font-size: 25px;
+    font-family: monospace;
+}
+
+#imagem2{
+    margin-top: 15px;
+
+}
+#nome3{
+    font-size: 30px;
+}
+
+#preco3{
+    font-size: 25px;
+    font-family: monospace;
+}
+
+#imagem3{
+    margin-top: 15px;
+}
+
+
+button{
+    padding: 10px;
+    border-radius: 5px;
+    background-color: rgb(93, 32, 121);
+    color: aliceblue;
+    font-size: 20px;
+    transition: transform 0.5s;
+}
+button:hover{
+    background-color: rgb(54, 8, 75);
+    color: rgb(255, 255, 255);
+    transform: scale(1.1);
+
+}
